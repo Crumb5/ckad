@@ -10,7 +10,7 @@ spec:
   failedJobsHistoryLimit: 2
   jobTemplate:
     spec:
-      template: 
+      template:
         spec:
           containers:
           - name: ckad-ctr
